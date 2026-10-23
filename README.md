@@ -1,8 +1,13 @@
-# PhD-Thesis
-Appendices for the five papers included in thesis: 
+# Publications
+
+Appendices, open sources and data for publications.
+
+## PhD-Thesis
+
+Appendices for the five papers (A-E) included in thesis: 
 
 Interpreting Urban Soundscapes with Mixed-Methods Research and Digital Design
 
 闡釋城市聲景之從混合方法調研到數位設計
 
-by YUE Ran, August 30, 2026.
+by YUE Ran, Sep 2026.
